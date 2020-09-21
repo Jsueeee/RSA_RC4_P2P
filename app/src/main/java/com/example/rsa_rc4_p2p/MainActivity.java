@@ -130,10 +130,10 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void onClick(View arg0) {
             Log.d("VR", "Click OK");
-            startDH_Client();
+            startRSA_Client();
         }
     };
-    public void   startDH_Client() {
+    public void startRSA_Client() {
         Thread startClientThread = new Thread (new Runnable() {
             @Override
             public void run() {
