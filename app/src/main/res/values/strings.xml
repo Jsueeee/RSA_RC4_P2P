@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">RSA_RC4_P2P</string>
+    <string name="Server_IP"></string>
+    <string name="editPeerIP">Enter Peer IP: </string>
+    <string name="input_message">Enter Message Here: </string>
+    <string name="Send_Button">RSA KEY EXCHANGE</string>
+    <string name="Start_Button">START P2P CHAT</string>
+    <string name="Peer_Reply">Reply: </string>
+    <string name="Shared_Key">Session Key: </string>
 </resources>
